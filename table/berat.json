@@ -1,0 +1,26 @@
+{
+    "fields": [
+        {
+            "name": "max",
+            "type": "integer"
+        },
+        {
+            "name": "min",
+            "type": "integer"
+        },
+        {
+            "name": "tanggal",
+            "type": "date"
+        }
+    ],
+    "validations": [
+        {
+            "field": "max",
+            "rules": "required"
+        },
+        {
+            "field": "min",
+            "rules": "required"
+        }
+    ]
+}
