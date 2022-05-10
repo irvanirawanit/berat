@@ -9,6 +9,10 @@
             "type": "integer"
         },
         {
+            "name": "perbedaan",
+            "type": "float"
+        },
+        {
             "name": "tanggal",
             "type": "date"
         }

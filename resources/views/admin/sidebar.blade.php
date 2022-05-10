@@ -7,8 +7,8 @@
         <div class="card-body">
             <ul class="nav" role="tablist">
                 <li role="presentation">
-                    <a href="{{ url('/admin') }}">
-                        Dashboard
+                    <a href="{{ url('/berat') }}">
+                        Berat
                     </a>
                 </li>
             </ul>
