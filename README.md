@@ -2,7 +2,8 @@
 
  - install php version 7.3
  - setting Database Connection in file `.env`
- ![mysql , pgsql](https://i.ibb.co/Pt3k17Z/Capture.png)
+ 
+    ![mysql , pgsql](https://i.ibb.co/Pt3k17Z/Capture.png)
  
  - run command `php artisan migrate` for migrate table to database
  - run command `php artisan serve` for run php webserver
